@@ -7,3 +7,6 @@
 [submodule "cse542/STAT-542-Projects"]
 	path = cse542/STAT-542-Projects
 	url = git@github.com:dreycenfoiles/STAT-542-Projects
+[submodule "cse542/stat542-ca3"]
+	path = cse542/stat542-ca3
+	url = git@github.com:yardasol/stat542-ca3
